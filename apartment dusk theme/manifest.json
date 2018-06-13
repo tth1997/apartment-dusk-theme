@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Apartment Dusk Theme",
+  "description": "Add theme of a dusk time",
+  "icons": {
+  "60": "sun.png"
+  },
+
+  "theme": {
+    "images": {
+      "headerURL": "20141207_165843.jpg"
+    },
+    "colors": {
+      "accentcolor": "#C61811",
+      "textcolor": "#000"
+    }
+  }
+}
